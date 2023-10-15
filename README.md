@@ -2,7 +2,7 @@
 
 Este repositório contém o código-fonte e recursos para um painel de monitoramento de dados que acompanha a pressão, temperatura e potência. Este painel é projetado para coletar, visualizar e analisar dados em tempo real de sensores correspondentes.
 
-- ele é um projeto derivado do repositorio ```js https://github.com/Romariolima99/monitor_de_dados```
+- ele é um projeto derivado do repositorio ```https://github.com/Romariolima99/monitor_de_dados```
 
 - Porém alterado para o framework React.
 
